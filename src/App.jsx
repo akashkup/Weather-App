@@ -41,7 +41,7 @@ function App() {
         <>
           <TextField
             variant="filled"
-            label="Search location"
+            label="Search the location"
             className="input"
             error={error}
             value={inputText}
